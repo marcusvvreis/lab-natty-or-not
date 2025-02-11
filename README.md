@@ -20,19 +20,28 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# IMAGENS DE FANTASIA PARA CENÁRIO DE TEATRO ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O PROJETO VISA A GERAÇÃO DE IMAGENS EM ALTA RESOLUÇÃO, COM ALTO NÍVEL DE DETALHES E NO TEMA DE FANTASIA.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- ChatGPT
+- Translate Google
+- Image FX
+- Dall-e
+- Copillot
+- Leonard AI
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O Processo começou com sugestões do GPT para Prompt de geração de imagens, após a leitura do roteiro da peça, feito isso, traduzi e coloquei nos geradores de imagens.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+.
+.
+.
+.
+
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
